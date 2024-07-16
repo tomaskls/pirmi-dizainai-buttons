@@ -100,4 +100,19 @@ p{
     width: 200px;
     opacity: 0.6;
     cursor: not-allowed;
-}    
+} 
+
+.label-icon{
+    display: inline-flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}  
+.action-after{
+    display: inline-flex;
+    flex-direction: column;
+    margin-left: 80px;
+    width: 15%;
+    gap: 20px;
+} 
